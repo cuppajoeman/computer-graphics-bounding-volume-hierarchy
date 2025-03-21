@@ -5,7 +5,7 @@
 #include <memory> // std::shared_ptr
 #include <Eigen/Core>
 
-// Compute the distrance from a query point to the objects stored in a AABBTree
+// Compute the distance from a query point to the objects stored in a AABBTree
 // using a priority queue. **_note:** this function is _not_ meant to be called
 // recursively._
 //
